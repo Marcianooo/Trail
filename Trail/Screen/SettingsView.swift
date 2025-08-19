@@ -65,13 +65,13 @@ struct SettingsView: View {
             }
                 .padding(.vertical, 8)
             ){
-                CustomListRowView(listIcon: "apps.iphone",listColor: .blue, listTitle: "Application", listContent: "Hike")
-                CustomListRowView(listIcon: "info.circle", listColor: .red, listTitle: "Compatibility", listContent: "iOS, iPadOS")
-                CustomListRowView(listIcon: "swift", listColor: .orange, listTitle: "Technology", listContent: "Swift")
-                CustomListRowView(listIcon: "gear", listColor: .purple, listTitle: "Version", listContent: "1.0")
-                CustomListRowView(listIcon: "ellipsis.curlybraces", listColor: .mint, listTitle: "Developer", listContent: "John Doe")
-                CustomListRowView(listIcon: "paintpalette", listColor: .pink, listTitle: "Designer", listContent: "Robert Petras")
-                CustomListRowView(listIcon: "globe", listColor: .indigo, listTitle: "Website", listLinkTitle: "Credo Academy", listLinkDestionation: "https://credo.academy")
+                CustomListRowView(listIcon: "apps.iphone",listColor: .blue, listTitle: "Aplicação", listContent: "Trilha")
+                CustomListRowView(listIcon: "info.circle", listColor: .red, listTitle: "Compatibilidade", listContent: "iOS, iPadOS")
+                CustomListRowView(listIcon: "swift", listColor: .orange, listTitle: "Tecnologia", listContent: "Swift")
+                CustomListRowView(listIcon: "gear", listColor: .purple, listTitle: "Versão", listContent: "1.0")
+                CustomListRowView(listIcon: "ellipsis.curlybraces", listColor: .mint, listTitle: "Desenvolvedor", listContent: "Italo Marciano")
+                CustomListRowView(listIcon: "paintpalette", listColor: .pink, listTitle: "Designer", listContent: "John Doe")
+                CustomListRowView(listIcon: "globe", listColor: .indigo, listTitle: "Linkedin", listLinkTitle: "Italo Marciano", listLinkDestionation: "https://www.linkedin.com/in/italomarciano/")
                 
                 
                 
