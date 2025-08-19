@@ -57,7 +57,7 @@ struct SettingsView: View {
             
             
             // MARK: - SECTION: ABOUT
-            Section ( header: Text("ABOUT THE APP"),
+            Section ( header: Text("SOBRE O APLICATIVO"),
                       footer: HStack {
                 Spacer()
                 Text("Copyrigth © All right reserved.")
