@@ -30,9 +30,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		FA6B84C42E29E8F7003748EB /* Trail */ = {
+		FA6B84C42E29E8F7003748EB /* Trilha */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Trail;
+			path = Trilha;
 			sourceTree = "<group>";
 		};
 		FA6B84D22E29E8F9003748EB /* TrailTests */ = {
@@ -75,7 +75,7 @@
 		FA6B84B92E29E8F7003748EB = {
 			isa = PBXGroup;
 			children = (
-				FA6B84C42E29E8F7003748EB /* Trail */,
+				FA6B84C42E29E8F7003748EB /* Trilha */,
 				FA6B84D22E29E8F9003748EB /* TrailTests */,
 				FA6B84DC2E29E8F9003748EB /* TrailUITests */,
 				FA6B84C32E29E8F7003748EB /* Products */,
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				FA6B84C42E29E8F7003748EB /* Trail */,
+				FA6B84C42E29E8F7003748EB /* Trilha */,
 			);
 			name = Trail;
 			packageProductDependencies = (
