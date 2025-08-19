@@ -60,7 +60,7 @@ struct SettingsView: View {
             Section ( header: Text("SOBRE O APLICATIVO"),
                       footer: HStack {
                 Spacer()
-                Text("Copyrigth © All right reserved.")
+                Text("Copyrigth © Todos os direitos reservados.")
                 Spacer()
             }
                 .padding(.vertical, 8)
